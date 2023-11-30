@@ -1,0 +1,13 @@
+fecha 23, 02, 2022
+prestamo Miguel Angel Fernandez, 1234, #10/03/2022#
+prestamo Juan Dorado, 4321, #01/3/2022#
+prestamo Juan Dorado, 1234, #01/03/2022#
+prestamo Juan Dorado, 1111, #01/03/2022#
+prestamo Juan Dorado, 2222, #01/03/2022#
+prestamo Juan Dorado, 4444, #01/03/2022#
+prestamo Juan Dorado, 6666, #01/03/2022#
+prestamo Juan Dorado, 7777, #01/03/2022#
+prestamo Juan Dorado, 8888, #01/03/2022#
+devolucion 1234
+fecha 02, 03, 2022
+prestamo Miguel Angel Fernandez, 1234, #01/04/2022#
